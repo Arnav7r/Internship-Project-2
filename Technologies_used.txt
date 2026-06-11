@@ -1,0 +1,60 @@
+--Resume/Report Tech Stack
+Tech Stack: Python, PyTorch, TorchVision, OpenCV, Streamlit, Pandas, NumPy, Matplotlib, Pillow
+Model: Custom CNN (Convolutional Neural Network)
+Dataset: GTSRB (German Traffic Sign Recognition Benchmark)
+Performance: 97.28% Official Test Accuracy
+Deployment: Interactive Streamlit Dashboard for Traffic Sign Recognition.
+
+
+//PyTorch Used for:
+Building CNN
+Training
+Testing
+Inference
+GPU acceleration
+
+//Streamlit Used for:
+Web dashboard
+Image upload interface
+Displaying predictions
+Confidence visualization
+
+//TorchVision Used for:
+ImageFolder
+Transforms
+Data Loading
+
+//OpenCV Used for:
+Webcam access
+Real-time image capture
+Displaying predictions
+
+//Pillow (PIL) Used for:
+Image loading
+Image preprocessing
+
+//NumPy Used indirectly for:
+Image arrays
+Tensor operations
+Data manipulation
+
+//Pandas Used for:
+Reading Test.csv
+Handling labels
+Evaluation
+
+//Matplotlib Used for:
+Image visualization
+Prediction display
+Plots
+
+--Results
+Official Test Accuracy : 97.28%
+
+Classes : 43
+
+Framework : PyTorch
+
+Deployment : Streamlit
+
+Inference : Image Upload + Webcam
