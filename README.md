@@ -1,5 +1,5 @@
 # Internship-Project-2
-Traffic Sign Recognition and Driver Alert System Using CNN
+Traffic Sign Recognition Using CNN
 
 Tech Stack: Python, PyTorch, TorchVision, OpenCV, Streamlit, Pandas, NumPy, Matplotlib, Pillow
 Model: Custom CNN (Convolutional Neural Network)
